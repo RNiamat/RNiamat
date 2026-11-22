@@ -63,7 +63,7 @@
 |---------|---------|------|
 | 🎓 [**Early Student Performance Prediction**](https://github.com/RNiamat/Early-Student-Performance-Prediction-with-Conformal-Uncertainty) | Predicts final grades (UCI Student Performance, n = 395) at three stages of the term using Random Forest, with 90% split-conformal prediction intervals | Python, Jupyter, scikit-learn |
 | 🦴 [**KneeKL: CNN vs Swin Transformer**](https://github.com/RNiamat/KneeKL-Patient-Level-Evaluation-of-CNN-and-Swin-Transformer-for-Kellgren-Lawrence-Grading) | Leakage-aware Kellgren-Lawrence grading of knee X-rays: ResNet-50 vs Swin-T, patient-disjoint split, 3 seeds, bootstrap CIs, test set used once. *Research only, not a medical device.* | PyTorch, Deep Learning |
-| 🚨 [**CrimeLense**](https://github.com/RNiamat/CrimeLense) | Open-source AI system for street crime hotspot detection, prediction and visualization using Random Forest and a MERN dashboard. *(Forked from [ZahraQaisar/CrimeLense](https://github.com/ZahraQaisar/CrimeLense))* | ML, MERN |
+| 🚨 [**CrimeLense**](https://github.com/RNiamat/CrimeLense) | Open-source AI system for street crime hotspot detection, prediction and visualization using Random Forest and a MERN dashboard.(https://github.com/ZahraQaisar/CrimeLense))* | ML, MERN |
 
 ---
 

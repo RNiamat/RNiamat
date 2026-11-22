@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zahra Qaisar! 💻</h1>
+<h1 align="center">Hey, I'm Rafia Niamat! 💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+Making;MERN+Stack+Developer;Building+AI-Powered+Web+Apps" alt="Typing SVG" />

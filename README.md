@@ -80,7 +80,7 @@
 
 ---
 
-## 📫 Contact Mission Control
+## 📫 Contact Control
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafia-niamat-03aa5826b/">

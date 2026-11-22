@@ -1,53 +1,59 @@
-<h1 align="center">Hey, I'm Rafia Niamat! 💻</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+the+Making;MERN+Stack+Developer;Building+AI-Powered+Web+Apps" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=140&section=header&text=Rafia%20Niamat&fontColor=00ff41&fontSize=48&fontAlignY=40&desc=AI%20%2F%20ML%20%7C%20MERN%20Stack&descAlignY=62&descSize=18" />
 </p>
 
-<p align="center"><i>"Code is where creativity meets logic."</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Rafia+Niamat;AI+%2F+ML+Engineer+in+the+Making;MERN+Stack+Developer;Building+AI-Powered+Web+Apps" alt="Typing SVG" />
+</p>
+
+```bash
+rafia@github:~$ whoami
+Rafia Niamat
+
+rafia@github:~$ cat about.txt
+> Focus      : Artificial Intelligence & Machine Learning
+> Stack      : MongoDB | Express | React | Node.js
+> Mission    : Build AI-powered web applications that are clean & scalable
+> Goal       : Become strong in AI/ML engineering + full-stack development
+> Ask me     : Machine Learning, MERN Stack, Git/GitHub, Databases, APIs
+
+rafia@github:~$ echo $QUOTE
+"Code is where creativity meets logic."
+```
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🤖 Focused on **Artificial Intelligence & Machine Learning**: building models and turning them into real products
-- 🌐 Building full-stack apps with the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🔗 Combining both worlds: **AI-powered web applications** with clean, scalable architecture
-- 🎯 Goal: Become strong in **AI/ML engineering + full-stack development**
-- 💬 Ask me about **Machine Learning, MERN Stack, Git/GitHub, Databases, and APIs**
-
----
-
-## 🧩 Tech Stack
+## 🖥️ `./tech_stack.sh`
 
 ### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,jupyter&theme=dark" />
 </p>
 
 ### 🌐 MERN Stack & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postgres,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postgres,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 `ps aux | grep working_on`
 
-| Area | Focus |
-|------|-------|
-| 🤖 **AI / ML** | Model training, data analysis, and deploying ML into apps |
-| 🌐 **MERN Stack** | REST APIs, authentication, dashboards, and responsive UIs |
-| 🔗 **AI + Web** | Integrating ML models and LLM APIs into full-stack projects |
+```bash
+PID   AREA        TASK
+001   AI / ML     Model training, data analysis, deploying ML into apps
+002   MERN        REST APIs, authentication, dashboards, responsive UIs
+003   AI + Web    Integrating ML models & LLM APIs into full-stack projects
+```
 
 ---
 
-## 📌 Featured Projects
+## 📂 `ls ~/projects`
 
 > Replace these with your own projects!
 
@@ -57,19 +63,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 `git log --stat`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RNiamat&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNiamat&layout=compact&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RNiamat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RNiamat&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RNiamat&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 `ssh connect@rafia`
 
 <p>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/rafia-niamat-03aa5826b/)/in/Rafia Niamat">
+  <a href="https://www.linkedin.com/in/rafia-niamat-03aa5826b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rafianiamat22@gmail.com">
@@ -77,4 +87,10 @@
   </a>
 </p>
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+```bash
+rafia@github:~$ echo "Thanks for visiting my profile! ⭐"
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" />
+</p>

@@ -69,10 +69,10 @@
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/rafia-niamat-03aa5826b/)/in/Rafia Niamat">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rafianiamat22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
